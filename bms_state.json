@@ -326,7 +326,7 @@
       "date": "20260331",
       "cat": "GOLD PRIME",
       "price": "630.00",
-      "status": "3"
+      "status": "2"
     },
     "PVWW|33625|20260331|GOLD": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -406,7 +406,7 @@
       "date": "20260331",
       "cat": "RECLINER ROWS",
       "price": "299.00",
-      "status": "3"
+      "status": "2"
     },
     "PSLC|15008|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -536,6 +536,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PMBR|19642|20260331|PRIME ROWS": {
+      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
+      "time": "06:35 PM",
+      "date": "20260331",
+      "cat": "PRIME ROWS",
+      "price": "92.00",
+      "status": "3"
+    },
     "PMBR|19642|20260331|CLASSIC ROWS": {
       "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
       "time": "06:35 PM",
@@ -549,14 +557,6 @@
       "time": "06:35 PM",
       "date": "20260331",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "92.00",
-      "status": "3"
-    },
-    "PMBR|19642|20260331|PRIME ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "06:35 PM",
-      "date": "20260331",
-      "cat": "PRIME ROWS",
       "price": "92.00",
       "status": "3"
     },
@@ -869,7 +869,7 @@
       "time": "07:05 PM",
       "date": "20260401",
       "cat": "RECLINER ROWS",
-      "price": "340.00",
+      "price": "370.00",
       "status": "3"
     },
     "PZVK|23231|20260401|PRIME ROWS": {
@@ -902,7 +902,7 @@
       "date": "20260401",
       "cat": "RECLINER PRIME",
       "price": "1000.00",
-      "status": "3"
+      "status": "2"
     },
     "PDWR|23768|20260401|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
