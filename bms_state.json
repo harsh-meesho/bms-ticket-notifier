@@ -53,8 +53,8 @@
       "time": "10:15 PM",
       "date": "20260330",
       "cat": "RECLINER ROWS",
-      "price": "380.00",
-      "status": "3"
+      "price": "440.00",
+      "status": "2"
     },
     "PVWW|33555|20260330|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -93,7 +93,7 @@
       "time": "10:00 PM",
       "date": "20260330",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "270.00",
+      "price": "290.00",
       "status": "3"
     },
     "PMSR|26007|20260330|CLASSIC PLUS ROWS": {
@@ -310,7 +310,7 @@
       "date": "20260330",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|23722|20260330|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -326,14 +326,14 @@
       "date": "20260330",
       "cat": "RECLINER PRIME",
       "price": "1100.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|23723|20260330|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
       "time": "10:15 PM",
       "date": "20260330",
       "cat": "RECLINER",
-      "price": "900.00",
+      "price": "1000.00",
       "status": "3"
     },
     "PVOO|44459|20260331|RECLINER ROWS": {
@@ -342,6 +342,14 @@
       "date": "20260331",
       "cat": "RECLINER ROWS",
       "price": "399.00",
+      "status": "3"
+    },
+    "PVOO|44459|20260331|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "07:10 PM",
+      "date": "20260331",
+      "cat": "PRIME ROWS",
+      "price": "199.00",
       "status": "3"
     },
     "PVOO|44459|20260331|CLASSIC ROWS": {
@@ -357,14 +365,6 @@
       "time": "07:10 PM",
       "date": "20260331",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "PVOO|44459|20260331|PRIME ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "07:10 PM",
-      "date": "20260331",
-      "cat": "PRIME ROWS",
       "price": "199.00",
       "status": "3"
     },
@@ -424,14 +424,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "PMSR|26041|20260331|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:00 PM",
-      "date": "20260331",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "92.00",
-      "status": "2"
-    },
     "PMSR|26041|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "10:00 PM",
@@ -447,6 +439,14 @@
       "cat": "CLASSIC ROWS",
       "price": "92.00",
       "status": "3"
+    },
+    "PMSR|26041|20260331|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:00 PM",
+      "date": "20260331",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "92.00",
+      "status": "2"
     },
     "PSLC|15008|20260331|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -584,6 +584,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PMBR|19642|20260331|CLASSIC ROWS": {
+      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
+      "time": "06:35 PM",
+      "date": "20260331",
+      "cat": "CLASSIC ROWS",
+      "price": "92.00",
+      "status": "3"
+    },
     "PMBR|19642|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
       "time": "06:35 PM",
@@ -597,14 +605,6 @@
       "time": "06:35 PM",
       "date": "20260331",
       "cat": "PRIME ROWS",
-      "price": "92.00",
-      "status": "3"
-    },
-    "PMBR|19642|20260331|CLASSIC ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "06:35 PM",
-      "date": "20260331",
-      "cat": "CLASSIC ROWS",
       "price": "92.00",
       "status": "3"
     },
