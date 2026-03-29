@@ -341,7 +341,7 @@
       "time": "10:15 PM",
       "date": "20260331",
       "cat": "RECLINER ROWS",
-      "price": "380.00",
+      "price": "440.00",
       "status": "3"
     },
     "PVWW|33604|20260331|PRIME ROWS": {
@@ -376,14 +376,6 @@
       "price": "199.00",
       "status": "3"
     },
-    "PMSR|26041|20260331|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:00 PM",
-      "date": "20260331",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "92.00",
-      "status": "2"
-    },
     "PMSR|26041|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "10:00 PM",
@@ -400,6 +392,14 @@
       "price": "92.00",
       "status": "3"
     },
+    "PMSR|26041|20260331|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:00 PM",
+      "date": "20260331",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "92.00",
+      "status": "2"
+    },
     "PSLC|15008|20260331|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
       "time": "04:15 PM",
@@ -408,19 +408,19 @@
       "price": "299.00",
       "status": "2"
     },
-    "PSLC|15008|20260331|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260331",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
     "PSLC|15008|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
       "time": "04:15 PM",
       "date": "20260331",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "149.00",
+      "status": "3"
+    },
+    "PSLC|15008|20260331|PRIME ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:15 PM",
+      "date": "20260331",
+      "cat": "PRIME ROWS",
       "price": "149.00",
       "status": "3"
     },
@@ -440,14 +440,6 @@
       "price": "299.00",
       "status": "1"
     },
-    "PSLC|15010|20260331|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260331",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "2"
-    },
     "PSLC|15010|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
       "time": "10:20 PM",
@@ -455,6 +447,14 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "149.00",
       "status": "3"
+    },
+    "PSLC|15010|20260331|PRIME ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:20 PM",
+      "date": "20260331",
+      "cat": "PRIME ROWS",
+      "price": "149.00",
+      "status": "2"
     },
     "PSLC|15010|20260331|CLASSIC ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -568,6 +568,14 @@
       "price": "199.00",
       "status": "3"
     },
+    "PZVK|23192|20260331|CLASSIC ROWS": {
+      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
+      "time": "07:05 PM",
+      "date": "20260331",
+      "cat": "CLASSIC ROWS",
+      "price": "92.00",
+      "status": "3"
+    },
     "PZVK|23192|20260331|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
       "time": "07:05 PM",
@@ -582,15 +590,7 @@
       "date": "20260331",
       "cat": "PRIME ROWS",
       "price": "92.00",
-      "status": "2"
-    },
-    "PZVK|23192|20260331|CLASSIC ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "07:05 PM",
-      "date": "20260331",
-      "cat": "CLASSIC ROWS",
-      "price": "92.00",
-      "status": "3"
+      "status": "1"
     },
     "PDWR|23763|20260331|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
