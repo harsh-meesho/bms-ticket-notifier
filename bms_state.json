@@ -8,14 +8,6 @@
       "price": "399.00",
       "status": "1"
     },
-    "PVOO|44459|20260331|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "07:10 PM",
-      "date": "20260331",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
     "PVOO|44459|20260331|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "07:10 PM",
@@ -29,6 +21,14 @@
       "time": "07:10 PM",
       "date": "20260331",
       "cat": "CLASSIC ROWS",
+      "price": "199.00",
+      "status": "3"
+    },
+    "PVOO|44459|20260331|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "07:10 PM",
+      "date": "20260331",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "199.00",
       "status": "3"
     },
@@ -112,70 +112,6 @@
       "price": "92.00",
       "status": "0"
     },
-    "PSLC|15008|20260331|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260331",
-      "cat": "RECLINER ROWS",
-      "price": "299.00",
-      "status": "0"
-    },
-    "PSLC|15008|20260331|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260331",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "1"
-    },
-    "PSLC|15008|20260331|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260331",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "PSLC|15008|20260331|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260331",
-      "cat": "CLASSIC ROWS",
-      "price": "92.00",
-      "status": "3"
-    },
-    "PSLC|15010|20260331|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260331",
-      "cat": "RECLINER ROWS",
-      "price": "299.00",
-      "status": "0"
-    },
-    "PSLC|15010|20260331|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260331",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "149.00",
-      "status": "1"
-    },
-    "PSLC|15010|20260331|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260331",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "1"
-    },
-    "PSLC|15010|20260331|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260331",
-      "cat": "CLASSIC ROWS",
-      "price": "92.00",
-      "status": "2"
-    },
     "PGFD|27173|20260331|RECLINER ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
       "time": "07:15 PM",
@@ -248,6 +184,14 @@
       "price": "199.00",
       "status": "1"
     },
+    "PMBR|19642|20260331|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
+      "time": "06:35 PM",
+      "date": "20260331",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "92.00",
+      "status": "3"
+    },
     "PMBR|19642|20260331|PRIME ROWS": {
       "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
       "time": "06:35 PM",
@@ -261,14 +205,6 @@
       "time": "06:35 PM",
       "date": "20260331",
       "cat": "CLASSIC ROWS",
-      "price": "92.00",
-      "status": "3"
-    },
-    "PMBR|19642|20260331|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "06:35 PM",
-      "date": "20260331",
-      "cat": "CLASSIC PLUS ROWS",
       "price": "92.00",
       "status": "3"
     },
@@ -446,70 +382,6 @@
       "date": "20260401",
       "cat": "CLASSIC ROWS",
       "price": "170.00",
-      "status": "3"
-    },
-    "PSLC|15013|20260401|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260401",
-      "cat": "RECLINER ROWS",
-      "price": "480.00",
-      "status": "2"
-    },
-    "PSLC|15013|20260401|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260401",
-      "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "PSLC|15013|20260401|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260401",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "PSLC|15013|20260401|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:15 PM",
-      "date": "20260401",
-      "cat": "CLASSIC ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
-    "PSLC|15015|20260401|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "RECLINER ROWS",
-      "price": "530.00",
-      "status": "1"
-    },
-    "PSLC|15015|20260401|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "PRIME ROWS",
-      "price": "290.00",
-      "status": "2"
-    },
-    "PSLC|15015|20260401|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "230.00",
-      "status": "3"
-    },
-    "PSLC|15015|20260401|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "CLASSIC ROWS",
-      "price": "210.00",
       "status": "3"
     },
     "PGFD|27178|20260401|RECLINER ROWS": {
@@ -782,70 +654,6 @@
       "date": "20260402",
       "cat": "CLASSIC ROWS",
       "price": "170.00",
-      "status": "3"
-    },
-    "PSLC|15036|20260402|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:50 PM",
-      "date": "20260402",
-      "cat": "RECLINER ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
-    "PSLC|15036|20260402|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:50 PM",
-      "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "PSLC|15036|20260402|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:50 PM",
-      "date": "20260402",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "PSLC|15036|20260402|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "04:50 PM",
-      "date": "20260402",
-      "cat": "CLASSIC ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
-    "PSLC|15038|20260402|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "RECLINER ROWS",
-      "price": "440.00",
-      "status": "3"
-    },
-    "PSLC|15038|20260402|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "260.00",
-      "status": "3"
-    },
-    "PSLC|15038|20260402|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "230.00",
-      "status": "3"
-    },
-    "PSLC|15038|20260402|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "CLASSIC ROWS",
-      "price": "210.00",
       "status": "3"
     },
     "PGFD|27191|20260402|RECLINER ROWS": {
