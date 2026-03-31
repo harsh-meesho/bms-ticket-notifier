@@ -14,7 +14,7 @@
       "date": "20260401",
       "cat": "PRIME ROWS",
       "price": "260.00",
-      "status": "2"
+      "status": "3"
     },
     "PVOO|44464|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -310,7 +310,7 @@
       "date": "20260401",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "0"
+      "status": "1"
     },
     "PDWR|23768|20260401|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
