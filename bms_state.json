@@ -54,7 +54,7 @@
       "date": "20260401",
       "cat": "RECLINER ROWS",
       "price": "490.00",
-      "status": "1"
+      "status": "0"
     },
     "PVWW|33644|20260401|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -190,7 +190,7 @@
       "date": "20260401",
       "cat": "PRIME ROWS",
       "price": "230.00",
-      "status": "2"
+      "status": "3"
     },
     "PGFD|27178|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -310,7 +310,7 @@
       "date": "20260401",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "1"
+      "status": "0"
     },
     "PDWR|23768|20260401|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
