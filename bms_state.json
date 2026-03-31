@@ -54,7 +54,7 @@
       "date": "20260401",
       "cat": "RECLINER ROWS",
       "price": "490.00",
-      "status": "0"
+      "status": "1"
     },
     "PVWW|33644|20260401|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -342,7 +342,7 @@
       "date": "20260402",
       "cat": "RECLINER ROWS",
       "price": "380.00",
-      "status": "2"
+      "status": "3"
     },
     "PVOO|44538|20260402|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
