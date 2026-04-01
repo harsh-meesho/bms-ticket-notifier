@@ -125,7 +125,7 @@
       "time": "10:00 PM",
       "date": "20260401",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "290.00",
+      "price": "310.00",
       "status": "2"
     },
     "PMSR|26072|20260401|CLASSIC PLUS ROWS": {
@@ -157,7 +157,7 @@
       "time": "04:15 PM",
       "date": "20260401",
       "cat": "PRIME ROWS",
-      "price": "260.00",
+      "price": "290.00",
       "status": "2"
     },
     "PSLC|15013|20260401|CLASSIC PLUS ROWS": {
@@ -198,7 +198,7 @@
       "date": "20260401",
       "cat": "CLASSIC PLUS ROWS",
       "price": "290.00",
-      "status": "2"
+      "status": "1"
     },
     "PSLC|15015|20260401|CLASSIC ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -230,7 +230,7 @@
       "date": "20260401",
       "cat": "CLASSIC PLUS ROWS",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "PGFD|27178|20260401|CLASSIC ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -342,7 +342,7 @@
       "date": "20260401",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "1"
+      "status": "0"
     },
     "PDWR|23768|20260401|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -365,8 +365,8 @@
       "time": "10:15 PM",
       "date": "20260401",
       "cat": "RECLINER",
-      "price": "1000.00",
-      "status": "3"
+      "price": "1100.00",
+      "status": "2"
     },
     "PVOO|44538|20260402|RECLINER ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -382,7 +382,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "260.00",
-      "status": "3"
+      "status": "2"
     },
     "PVOO|44538|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -454,7 +454,7 @@
       "date": "20260402",
       "cat": "RECLINER ROWS",
       "price": "490.00",
-      "status": "1"
+      "status": "0"
     },
     "PVWW|33684|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -765,8 +765,8 @@
       "time": "10:15 PM",
       "date": "20260402",
       "cat": "RECLINER",
-      "price": "1000.00",
-      "status": "3"
+      "price": "1100.00",
+      "status": "2"
     }
   },
   "dates": {
