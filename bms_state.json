@@ -21,7 +21,7 @@
       "time": "07:10 PM",
       "date": "20260401",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "210.00",
+      "price": "220.00",
       "status": "3"
     },
     "PVOO|44464|20260401|CLASSIC ROWS": {
@@ -126,7 +126,7 @@
       "date": "20260401",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "290.00",
-      "status": "3"
+      "status": "2"
     },
     "PMSR|26072|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -214,7 +214,7 @@
       "date": "20260401",
       "cat": "RECLINER ROWS",
       "price": "430.00",
-      "status": "2"
+      "status": "1"
     },
     "PGFD|27178|20260401|PRIME ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -525,7 +525,7 @@
       "time": "04:50 PM",
       "date": "20260402",
       "cat": "PRIME ROWS",
-      "price": "220.00",
+      "price": "240.00",
       "status": "3"
     },
     "PSLC|15036|20260402|CLASSIC PLUS ROWS": {
@@ -565,7 +565,7 @@
       "time": "10:20 PM",
       "date": "20260402",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "230.00",
+      "price": "250.00",
       "status": "3"
     },
     "PSLC|15038|20260402|CLASSIC ROWS": {
@@ -736,21 +736,21 @@
       "price": "180.00",
       "status": "3"
     },
+    "PDWR|23800|20260402|RECLINER PRIME": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "06:30 PM",
+      "date": "20260402",
+      "cat": "RECLINER PRIME",
+      "price": "1200.00",
+      "status": "1"
+    },
     "PDWR|23800|20260402|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
       "time": "06:30 PM",
       "date": "20260402",
       "cat": "RECLINER",
       "price": "1100.00",
-      "status": "2"
-    },
-    "PDWR|23800|20260402|RECLINER PRIME": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "06:30 PM",
-      "date": "20260402",
-      "cat": "RECLINER PRIME",
-      "price": "1100.00",
-      "status": "2"
+      "status": "0"
     },
     "PDWR|23801|20260402|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -772,7 +772,7 @@
   "dates": {
     "20260401": "BOOKABLE",
     "20260402": "AVAILABLE",
-    "20260403": "NOT_OPEN",
+    "20260403": "AVAILABLE",
     "20260404": "NOT_OPEN",
     "20260405": "NOT_OPEN",
     "20260406": "NOT_OPEN",
