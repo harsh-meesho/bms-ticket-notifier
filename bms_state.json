@@ -13,7 +13,7 @@
       "time": "07:10 PM",
       "date": "20260402",
       "cat": "PRIME ROWS",
-      "price": "260.00",
+      "price": "280.00",
       "status": "2"
     },
     "PVOO|44538|20260402|CLASSIC PLUS ROWS": {
@@ -480,6 +480,38 @@
       "price": "260.00",
       "status": "3"
     },
+    "PPNX|38042|20260403|RECLINER ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "PPNX|38042|20260403|PRIME ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PPNX|38042|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "PPNX|38042|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
     "PBMM|30082|20260403|RECLINER ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "07:05 PM",
@@ -533,7 +565,7 @@
       "time": "04:45 PM",
       "date": "20260403",
       "cat": "PRIME ROWS",
-      "price": "290.00",
+      "price": "310.00",
       "status": "3"
     },
     "PSLC|15057|20260403|CLASSIC PLUS ROWS": {
@@ -790,7 +822,7 @@
       "date": "20260403",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "2"
+      "status": "3"
     },
     "PDWR|23844|20260403|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -910,7 +942,7 @@
       "date": "20260404",
       "cat": "RECLINER ROWS",
       "price": "620.00",
-      "status": "3"
+      "status": "2"
     },
     "PSLC|15089|20260404|PRIME ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -1142,6 +1174,62 @@
       "date": "20260405",
       "cat": "CLASSIC ROWS",
       "price": "260.00",
+      "status": "3"
+    },
+    "PGFD|27263|20260405|RECLINER ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "04:20 PM",
+      "date": "20260405",
+      "cat": "RECLINER ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "PGFD|27263|20260405|PRIME ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "04:20 PM",
+      "date": "20260405",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PGFD|27263|20260405|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "04:20 PM",
+      "date": "20260405",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PGFD|27263|20260405|CLASSIC ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "04:20 PM",
+      "date": "20260405",
+      "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "PMBR|19714|20260405|PRIME ROWS": {
+      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "PRIME ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PMBR|19714|20260405|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PMBR|19714|20260405|CLASSIC ROWS": {
+      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "CLASSIC ROWS",
+      "price": "230.00",
       "status": "3"
     },
     "PDWR|23868|20260405|RECLINER PRIME": {
