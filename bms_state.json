@@ -22,7 +22,7 @@
       "date": "20260401",
       "cat": "CLASSIC PLUS ROWS",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "PVOO|44464|20260401|CLASSIC ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -38,7 +38,7 @@
       "date": "20260401",
       "cat": "RECLINER ROWS",
       "price": "380.00",
-      "status": "3"
+      "status": "2"
     },
     "PVOO|44568|20260401|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -158,15 +158,15 @@
       "date": "20260401",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "310.00",
-      "status": "1"
+      "status": "2"
     },
     "PMSR|26072|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "10:00 PM",
       "date": "20260401",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "190.00",
-      "status": "3"
+      "price": "210.00",
+      "status": "2"
     },
     "PMSR|26072|20260401|CLASSIC ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -189,8 +189,8 @@
       "time": "07:15 PM",
       "date": "20260401",
       "cat": "PRIME ROWS",
-      "price": "250.00",
-      "status": "2"
+      "price": "270.00",
+      "status": "1"
     },
     "PGFD|27178|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -246,7 +246,7 @@
       "date": "20260401",
       "cat": "RECLINER ROWS",
       "price": "370.00",
-      "status": "2"
+      "status": "1"
     },
     "PMBR|19647|20260401|PRIME ROWS": {
       "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
@@ -254,7 +254,7 @@
       "date": "20260401",
       "cat": "PRIME ROWS",
       "price": "230.00",
-      "status": "2"
+      "status": "3"
     },
     "PMBR|19647|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
@@ -285,8 +285,8 @@
       "time": "07:05 PM",
       "date": "20260401",
       "cat": "PRIME ROWS",
-      "price": "230.00",
-      "status": "3"
+      "price": "250.00",
+      "status": "2"
     },
     "PZVK|23231|20260401|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
@@ -342,7 +342,7 @@
       "date": "20260402",
       "cat": "RECLINER ROWS",
       "price": "380.00",
-      "status": "2"
+      "status": "1"
     },
     "PVOO|44538|20260402|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -734,7 +734,7 @@
       "date": "20260402",
       "cat": "RECLINER",
       "price": "1100.00",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
