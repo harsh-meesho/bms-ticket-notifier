@@ -1016,6 +1016,54 @@
       "price": "290.00",
       "status": "3"
     },
+    "PVWW|33781|20260404|RECLINER ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "610.00",
+      "status": "3"
+    },
+    "PVWW|33781|20260404|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PVWW|33781|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "PVWW|33781|20260404|CLASSIC ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PVWW|33761|20260404|GOLD PRIME": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20260404",
+      "cat": "GOLD PRIME",
+      "price": "1000.00",
+      "status": "3"
+    },
+    "PVWW|33761|20260404|GOLD": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20260404",
+      "cat": "GOLD",
+      "price": "950.00",
+      "status": "3"
+    },
     "PSLC|15087|20260404|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
       "time": "04:45 PM",
@@ -1222,6 +1270,54 @@
       "date": "20260405",
       "cat": "CLASSIC ROWS",
       "price": "280.00",
+      "status": "3"
+    },
+    "PVWW|33785|20260405|RECLINER ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "RECLINER ROWS",
+      "price": "540.00",
+      "status": "3"
+    },
+    "PVWW|33785|20260405|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "PRIME ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PVWW|33785|20260405|CLASSIC PLUS ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PVWW|33785|20260405|CLASSIC ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260405",
+      "cat": "CLASSIC ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVWW|33765|20260405|GOLD PRIME": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20260405",
+      "cat": "GOLD PRIME",
+      "price": "1050.00",
+      "status": "3"
+    },
+    "PVWW|33765|20260405|GOLD": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20260405",
+      "cat": "GOLD",
+      "price": "950.00",
       "status": "3"
     },
     "PSLC|15092|20260405|RECLINER ROWS": {
