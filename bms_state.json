@@ -512,6 +512,54 @@
       "price": "240.00",
       "status": "3"
     },
+    "PVWW|33728|20260403|RECLINER ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "PVWW|33728|20260403|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVWW|33728|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PVWW|33728|20260403|CLASSIC ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "07:00 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVWW|33741|20260403|GOLD PRIME": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20260403",
+      "cat": "GOLD PRIME",
+      "price": "950.00",
+      "status": "3"
+    },
+    "PVWW|33741|20260403|GOLD": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20260403",
+      "cat": "GOLD",
+      "price": "900.00",
+      "status": "3"
+    },
     "PBMM|30082|20260403|RECLINER ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "07:05 PM",
