@@ -1,117 +1,5 @@
 {
   "shows": {
-    "PVOO|44568|20260401|RECLINER ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "10:30 PM",
-      "date": "20260401",
-      "cat": "RECLINER ROWS",
-      "price": "530.00",
-      "status": "2"
-    },
-    "PVOO|44568|20260401|PRIME ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "10:30 PM",
-      "date": "20260401",
-      "cat": "PRIME ROWS",
-      "price": "280.00",
-      "status": "2"
-    },
-    "PVOO|44568|20260401|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "10:30 PM",
-      "date": "20260401",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PVOO|44568|20260401|CLASSIC ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "10:30 PM",
-      "date": "20260401",
-      "cat": "CLASSIC ROWS",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PVWW|33644|20260401|RECLINER ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260401",
-      "cat": "RECLINER ROWS",
-      "price": "490.00",
-      "status": "0"
-    },
-    "PVWW|33644|20260401|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260401",
-      "cat": "PRIME ROWS",
-      "price": "300.00",
-      "status": "1"
-    },
-    "PVWW|33644|20260401|CLASSIC PLUS ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260401",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "270.00",
-      "status": "0"
-    },
-    "PVWW|33644|20260401|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260401",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "2"
-    },
-    "PSLC|15015|20260401|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "RECLINER ROWS",
-      "price": "530.00",
-      "status": "0"
-    },
-    "PSLC|15015|20260401|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "PRIME ROWS",
-      "price": "330.00",
-      "status": "1"
-    },
-    "PSLC|15015|20260401|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "290.00",
-      "status": "0"
-    },
-    "PSLC|15015|20260401|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:20 PM",
-      "date": "20260401",
-      "cat": "CLASSIC ROWS",
-      "price": "210.00",
-      "status": "3"
-    },
-    "PDWR|23769|20260401|RECLINER PRIME": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "10:15 PM",
-      "date": "20260401",
-      "cat": "RECLINER PRIME",
-      "price": "1200.00",
-      "status": "1"
-    },
-    "PDWR|23769|20260401|RECLINER": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "10:15 PM",
-      "date": "20260401",
-      "cat": "RECLINER",
-      "price": "1100.00",
-      "status": "2"
-    },
     "PVOO|44538|20260402|RECLINER ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "07:10 PM",
@@ -334,7 +222,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "230.00",
-      "status": "3"
+      "status": "2"
     },
     "PGFD|27191|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -568,13 +456,53 @@
       "price": "260.00",
       "status": "3"
     },
+    "PBMM|30082|20260403|RECLINER ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "460.00",
+      "status": "3"
+    },
+    "PBMM|30082|20260403|PRIME PLUS ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260403",
+      "cat": "PRIME PLUS ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PBMM|30082|20260403|PRIME ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PBMM|30082|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PBMM|30082|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "07:05 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
     "PSLC|15057|20260403|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
       "time": "04:45 PM",
       "date": "20260403",
       "cat": "RECLINER ROWS",
       "price": "530.00",
-      "status": "3"
+      "status": "2"
     },
     "PSLC|15057|20260403|PRIME ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -606,7 +534,7 @@
       "date": "20260403",
       "cat": "RECLINER ROWS",
       "price": "630.00",
-      "status": "2"
+      "status": "3"
     },
     "PSLC|15059|20260403|PRIME ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -806,7 +734,7 @@
       "date": "20260403",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "3"
+      "status": "2"
     },
     "PDWR|23844|20260403|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -976,6 +904,38 @@
       "price": "300.00",
       "status": "3"
     },
+    "PDWR|23863|20260404|RECLINER PRIME": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "07:20 PM",
+      "date": "20260404",
+      "cat": "RECLINER PRIME",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "PDWR|23863|20260404|RECLINER": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "07:20 PM",
+      "date": "20260404",
+      "cat": "RECLINER",
+      "price": "1100.00",
+      "status": "3"
+    },
+    "PDWR|23864|20260404|RECLINER PRIME": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "RECLINER PRIME",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "PDWR|23864|20260404|RECLINER": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "RECLINER",
+      "price": "1100.00",
+      "status": "3"
+    },
     "PVOO|44637|20260405|GOLD PRIME": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "04:20 PM",
@@ -1095,15 +1055,47 @@
       "cat": "CLASSIC ROWS",
       "price": "260.00",
       "status": "3"
+    },
+    "PDWR|23868|20260405|RECLINER PRIME": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "07:20 PM",
+      "date": "20260405",
+      "cat": "RECLINER PRIME",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "PDWR|23868|20260405|RECLINER": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "07:20 PM",
+      "date": "20260405",
+      "cat": "RECLINER",
+      "price": "1100.00",
+      "status": "3"
+    },
+    "PDWR|23869|20260405|RECLINER PRIME": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260405",
+      "cat": "RECLINER PRIME",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "PDWR|23869|20260405|RECLINER": {
+      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260405",
+      "cat": "RECLINER",
+      "price": "1100.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260401": "AVAILABLE",
     "20260402": "AVAILABLE",
     "20260403": "AVAILABLE",
     "20260404": "AVAILABLE",
     "20260405": "BOOKABLE",
     "20260406": "NOT_OPEN",
-    "20260407": "NOT_OPEN"
+    "20260407": "NOT_OPEN",
+    "20260408": "NOT_OPEN"
   }
 }
