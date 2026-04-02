@@ -22,7 +22,7 @@
       "date": "20260402",
       "cat": "CLASSIC PLUS ROWS",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "PVOO|44569|20260402|CLASSIC ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -78,7 +78,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "300.00",
-      "status": "1"
+      "status": "0"
     },
     "PSLC|15038|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -86,7 +86,7 @@
       "date": "20260402",
       "cat": "CLASSIC PLUS ROWS",
       "price": "270.00",
-      "status": "1"
+      "status": "0"
     },
     "PSLC|15038|20260402|CLASSIC ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -94,7 +94,7 @@
       "date": "20260402",
       "cat": "CLASSIC ROWS",
       "price": "210.00",
-      "status": "3"
+      "status": "2"
     },
     "PMSR|26098|20260402|RECLINER ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -126,7 +126,7 @@
       "date": "20260402",
       "cat": "CLASSIC ROWS",
       "price": "170.00",
-      "status": "3"
+      "status": "2"
     },
     "PGFD|27219|20260402|RECLINER ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -142,7 +142,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "260.00",
-      "status": "2"
+      "status": "1"
     },
     "PGFD|27219|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -166,7 +166,7 @@
       "date": "20260402",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "1"
+      "status": "0"
     },
     "PDWR|23801|20260402|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -198,7 +198,7 @@
       "date": "20260403",
       "cat": "RECLINER ROWS",
       "price": "630.00",
-      "status": "2"
+      "status": "1"
     },
     "PVOO|44613|20260403|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -246,7 +246,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "PSPR|46917|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
@@ -366,7 +366,7 @@
       "date": "20260403",
       "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "PPNX|38130|20260403|CLASSIC ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -398,7 +398,7 @@
       "date": "20260403",
       "cat": "CLASSIC PLUS ROWS",
       "price": "320.00",
-      "status": "1"
+      "status": "2"
     },
     "PVWW|33728|20260403|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -430,7 +430,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "290.00",
-      "status": "2"
+      "status": "1"
     },
     "PBMM|30082|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -558,7 +558,7 @@
       "date": "20260403",
       "cat": "RECLINER ROWS",
       "price": "410.00",
-      "status": "2"
+      "status": "1"
     },
     "PGFD|27252|20260403|PRIME ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -566,7 +566,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "PGFD|27252|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -718,7 +718,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "PAAS|15968|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -870,7 +870,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "320.00",
-      "status": "2"
+      "status": "1"
     },
     "PVFF|45726|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -918,7 +918,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "1"
     },
     "PPNX|38142|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -942,7 +942,7 @@
       "date": "20260404",
       "cat": "RECLINER ROWS",
       "price": "680.00",
-      "status": "1"
+      "status": "0"
     },
     "PPNX|38133|20260404|PRIME ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -950,7 +950,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "1"
     },
     "PPNX|38133|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -974,7 +974,7 @@
       "date": "20260404",
       "cat": "RECLINER ROWS",
       "price": "710.00",
-      "status": "2"
+      "status": "1"
     },
     "PVWW|33781|20260404|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -1014,7 +1014,7 @@
       "date": "20260404",
       "cat": "PRIME PLUS ROWS",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "PBMM|30171|20260404|PRIME ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -1398,7 +1398,7 @@
       "date": "20260405",
       "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|45731|20260405|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -1438,7 +1438,7 @@
       "date": "20260405",
       "cat": "RECLINER ROWS",
       "price": "640.00",
-      "status": "2"
+      "status": "1"
     },
     "PVWW|33785|20260405|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -1446,7 +1446,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "320.00",
-      "status": "3"
+      "status": "2"
     },
     "PVWW|33785|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
