@@ -118,7 +118,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "370.00",
-      "status": "1"
+      "status": "2"
     },
     "PVER|47708|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -310,7 +310,7 @@
       "date": "20260403",
       "cat": "CLASSIC PLUS ROWS",
       "price": "260.00",
-      "status": "3"
+      "status": "2"
     },
     "PBMM|30082|20260403|CLASSIC ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -438,7 +438,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "260.00",
-      "status": "1"
+      "status": "2"
     },
     "PGFD|27252|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -765,7 +765,7 @@
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "290.00",
+      "price": "320.00",
       "status": "3"
     },
     "PVER|47711|20260404|CLASSIC ROWS": {
@@ -878,7 +878,7 @@
       "date": "20260404",
       "cat": "RECLINER ROWS",
       "price": "660.00",
-      "status": "2"
+      "status": "3"
     },
     "PVWW|33853|20260404|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -926,7 +926,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "310.00",
-      "status": "3"
+      "status": "2"
     },
     "PBMM|30171|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
