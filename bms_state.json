@@ -438,7 +438,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "260.00",
-      "status": "2"
+      "status": "1"
     },
     "PGFD|27252|20260403|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -749,7 +749,7 @@
       "time": "04:30 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "260.00",
+      "price": "280.00",
       "status": "3"
     },
     "PVER|47711|20260404|PRIME ROWS": {
@@ -910,7 +910,7 @@
       "date": "20260404",
       "cat": "RECLINER ROWS",
       "price": "490.00",
-      "status": "3"
+      "status": "2"
     },
     "PBMM|30171|20260404|PRIME PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
