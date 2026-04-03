@@ -22,86 +22,6 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "320.00",
-      "status": "2"
-    },
-    "PVWW|33741|20260403|GOLD PRIME": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "09:45 PM",
-      "date": "20260403",
-      "cat": "GOLD PRIME",
-      "price": "1500.00",
-      "status": "1"
-    },
-    "PVWW|33741|20260403|GOLD": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "09:45 PM",
-      "date": "20260403",
-      "cat": "GOLD",
-      "price": "1400.00",
-      "status": "0"
-    },
-    "PVWW|33854|20260403|RECLINER ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260403",
-      "cat": "RECLINER ROWS",
-      "price": "690.00",
-      "status": "0"
-    },
-    "PVWW|33854|20260403|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260403",
-      "cat": "PRIME ROWS",
-      "price": "390.00",
-      "status": "0"
-    },
-    "PVWW|33854|20260403|CLASSIC PLUS ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260403",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "0"
-    },
-    "PVWW|33854|20260403|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260403",
-      "cat": "CLASSIC ROWS",
-      "price": "320.00",
-      "status": "2"
-    },
-    "PSLC|15059|20260403|RECLINER ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "RECLINER ROWS",
-      "price": "720.00",
-      "status": "0"
-    },
-    "PSLC|15059|20260403|PRIME ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "PRIME ROWS",
-      "price": "380.00",
-      "status": "0"
-    },
-    "PSLC|15059|20260403|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "350.00",
-      "status": "0"
-    },
-    "PSLC|15059|20260403|CLASSIC ROWS": {
-      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "CLASSIC ROWS",
-      "price": "330.00",
       "status": "1"
     },
     "PMSR|26138|20260403|RECLINER ROWS": {
@@ -142,38 +62,6 @@
       "date": "20260403",
       "cat": "CLASSIC ROWS",
       "price": "240.00",
-      "status": "3"
-    },
-    "PZVK|23277|20260403|RECLINER ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "RECLINER ROWS",
-      "price": "500.00",
-      "status": "1"
-    },
-    "PZVK|23277|20260403|PRIME ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "PRIME ROWS",
-      "price": "320.00",
-      "status": "1"
-    },
-    "PZVK|23277|20260403|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "290.00",
-      "status": "2"
-    },
-    "PZVK|23277|20260403|CLASSIC ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "10:10 PM",
-      "date": "20260403",
-      "cat": "CLASSIC ROWS",
-      "price": "230.00",
       "status": "3"
     },
     "PAAS|15968|20260403|RECLINER ROWS": {
@@ -597,7 +485,7 @@
       "time": "10:20 PM",
       "date": "20260404",
       "cat": "RECLINER ROWS",
-      "price": "510.00",
+      "price": "560.00",
       "status": "3"
     },
     "PMSR|26184|20260404|EXTRA LEGROOM ROWS": {
@@ -678,7 +566,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "PMBR|19709|20260404|CLASSIC ROWS": {
       "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
@@ -950,7 +838,7 @@
       "date": "20260405",
       "cat": "CLASSIC PLUS ROWS",
       "price": "320.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|45731|20260405|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -1125,7 +1013,7 @@
       "time": "07:05 PM",
       "date": "20260405",
       "cat": "PRIME PLUS ROWS",
-      "price": "360.00",
+      "price": "380.00",
       "status": "2"
     },
     "PBMM|30176|20260405|PRIME ROWS": {
