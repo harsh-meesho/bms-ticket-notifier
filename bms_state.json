@@ -118,7 +118,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "430.00",
-      "status": "1"
+      "status": "0"
     },
     "PVER|47711|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -229,7 +229,7 @@
       "time": "07:00 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "310.00",
+      "price": "330.00",
       "status": "3"
     },
     "PVWW|33853|20260404|RECLINER ROWS": {
@@ -381,8 +381,8 @@
       "time": "10:20 PM",
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "400.00",
-      "status": "3"
+      "price": "430.00",
+      "status": "2"
     },
     "PMSR|26184|20260404|PRIME ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -429,8 +429,8 @@
       "time": "04:20 PM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "210.00",
-      "status": "2"
+      "price": "230.00",
+      "status": "1"
     },
     "PGFD|27258|20260404|CLASSIC ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -486,7 +486,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "PZVK|23294|20260404|CLASSIC ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
@@ -598,7 +598,7 @@
       "date": "20260404",
       "cat": "RECLINER PRIME",
       "price": "1400.00",
-      "status": "0"
+      "status": "1"
     },
     "PDWR|23863|20260404|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -909,8 +909,8 @@
       "time": "07:05 PM",
       "date": "20260405",
       "cat": "PRIME ROWS",
-      "price": "330.00",
-      "status": "2"
+      "price": "350.00",
+      "status": "1"
     },
     "PBMM|30176|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -1045,7 +1045,7 @@
       "time": "04:20 PM",
       "date": "20260405",
       "cat": "PRIME ROWS",
-      "price": "270.00",
+      "price": "290.00",
       "status": "3"
     },
     "PGFD|27263|20260405|CLASSIC PLUS ROWS": {
@@ -1093,7 +1093,7 @@
       "time": "04:05 PM",
       "date": "20260405",
       "cat": "RECLINER ROWS",
-      "price": "440.00",
+      "price": "470.00",
       "status": "3"
     },
     "PZVK|23316|20260405|PRIME ROWS": {
@@ -1253,8 +1253,8 @@
     "20260404": "AVAILABLE",
     "20260405": "BOOKABLE",
     "20260406": "AVAILABLE",
-    "20260407": "NOT_OPEN",
-    "20260408": "NOT_OPEN",
+    "20260407": "AVAILABLE",
+    "20260408": "AVAILABLE",
     "20260409": "NOT_OPEN",
     "20260410": "NOT_OPEN"
   }
