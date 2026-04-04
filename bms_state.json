@@ -21,7 +21,7 @@
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "350.00",
+      "price": "380.00",
       "status": "1"
     },
     "PVWW|33853|20260404|RECLINER ROWS": {
@@ -110,7 +110,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "380.00",
-      "status": "0"
+      "status": "1"
     },
     "PMSR|26184|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -182,7 +182,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "270.00",
-      "status": "1"
+      "status": "0"
     },
     "PAAS|15994|20260404|CLASSIC ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -190,7 +190,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|23864|20260404|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -238,7 +238,7 @@
       "date": "20260405",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "470.00",
-      "status": "2"
+      "status": "1"
     },
     "PVOO|44660|20260405|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -253,7 +253,7 @@
       "time": "06:40 PM",
       "date": "20260405",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "320.00",
+      "price": "340.00",
       "status": "3"
     },
     "PVOO|44660|20260405|CLASSIC ROWS": {
@@ -661,7 +661,7 @@
       "time": "07:00 PM",
       "date": "20260405",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "250.00",
+      "price": "270.00",
       "status": "3"
     },
     "PMBR|19714|20260405|CLASSIC ROWS": {
@@ -686,7 +686,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "320.00",
-      "status": "2"
+      "status": "1"
     },
     "PZVK|23316|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
@@ -773,7 +773,7 @@
       "time": "10:20 PM",
       "date": "20260405",
       "cat": "RECLINER ROWS",
-      "price": "440.00",
+      "price": "460.00",
       "status": "2"
     },
     "PAAS|15999|20260405|PRIME ROWS": {
@@ -782,7 +782,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "290.00",
-      "status": "3"
+      "status": "2"
     },
     "PAAS|15999|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
