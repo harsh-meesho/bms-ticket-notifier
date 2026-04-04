@@ -22,7 +22,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "PVWW|33853|20260404|RECLINER ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -54,7 +54,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "PSLC|15089|20260404|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -110,7 +110,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "380.00",
-      "status": "1"
+      "status": "0"
     },
     "PMSR|26184|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -142,7 +142,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "330.00",
-      "status": "1"
+      "status": "0"
     },
     "PZVK|23296|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
@@ -150,7 +150,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "PZVK|23296|20260404|CLASSIC ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
@@ -189,24 +189,8 @@
       "time": "10:20 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "230.00",
+      "price": "250.00",
       "status": "2"
-    },
-    "PDWR|23863|20260404|RECLINER PRIME": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "07:20 PM",
-      "date": "20260404",
-      "cat": "RECLINER PRIME",
-      "price": "1400.00",
-      "status": "1"
-    },
-    "PDWR|23863|20260404|RECLINER": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "07:20 PM",
-      "date": "20260404",
-      "cat": "RECLINER",
-      "price": "1300.00",
-      "status": "0"
     },
     "PDWR|23864|20260404|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -214,7 +198,7 @@
       "date": "20260404",
       "cat": "RECLINER PRIME",
       "price": "1400.00",
-      "status": "0"
+      "status": "1"
     },
     "PDWR|23864|20260404|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -248,6 +232,14 @@
       "price": "800.00",
       "status": "1"
     },
+    "PVOO|44660|20260405|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260405",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "470.00",
+      "status": "2"
+    },
     "PVOO|44660|20260405|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "06:40 PM",
@@ -255,14 +247,6 @@
       "cat": "PRIME ROWS",
       "price": "420.00",
       "status": "1"
-    },
-    "PVOO|44660|20260405|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "06:40 PM",
-      "date": "20260405",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "420.00",
-      "status": "2"
     },
     "PVOO|44660|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -518,7 +502,7 @@
       "date": "20260405",
       "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "PBMM|30176|20260405|CLASSIC ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -557,7 +541,7 @@
       "time": "04:45 PM",
       "date": "20260405",
       "cat": "CLASSIC ROWS",
-      "price": "340.00",
+      "price": "360.00",
       "status": "2"
     },
     "PSLC|15094|20260405|RECLINER ROWS": {
@@ -790,7 +774,7 @@
       "date": "20260405",
       "cat": "RECLINER ROWS",
       "price": "440.00",
-      "status": "3"
+      "status": "2"
     },
     "PAAS|15999|20260405|PRIME ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -845,8 +829,8 @@
       "time": "10:30 PM",
       "date": "20260405",
       "cat": "RECLINER",
-      "price": "1200.00",
-      "status": "3"
+      "price": "1300.00",
+      "status": "2"
     }
   },
   "dates": {
