@@ -1,149 +1,5 @@
 {
   "shows": {
-    "PVER|47711|20260404|PRIME ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "430.00",
-      "status": "0"
-    },
-    "PVER|47711|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "400.00",
-      "status": "0"
-    },
-    "PVER|47711|20260404|CLASSIC ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "380.00",
-      "status": "0"
-    },
-    "PVWW|33853|20260404|RECLINER ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260404",
-      "cat": "RECLINER ROWS",
-      "price": "710.00",
-      "status": "0"
-    },
-    "PVWW|33853|20260404|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "400.00",
-      "status": "0"
-    },
-    "PVWW|33853|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "370.00",
-      "status": "0"
-    },
-    "PVWW|33853|20260404|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "10:15 PM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "350.00",
-      "status": "1"
-    },
-    "PMSR|26184|20260404|RECLINER ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "RECLINER ROWS",
-      "price": "610.00",
-      "status": "1"
-    },
-    "PMSR|26184|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "430.00",
-      "status": "0"
-    },
-    "PMSR|26184|20260404|PRIME ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "380.00",
-      "status": "1"
-    },
-    "PMSR|26184|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "1"
-    },
-    "PMSR|26184|20260404|CLASSIC ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "260.00",
-      "status": "3"
-    },
-    "PAAS|15994|20260404|RECLINER ROWS": {
-      "venue": "PVR: Aura Park Square, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "RECLINER ROWS",
-      "price": "480.00",
-      "status": "0"
-    },
-    "PAAS|15994|20260404|PRIME ROWS": {
-      "venue": "PVR: Aura Park Square, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "300.00",
-      "status": "0"
-    },
-    "PAAS|15994|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Aura Park Square, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "270.00",
-      "status": "0"
-    },
-    "PAAS|15994|20260404|CLASSIC ROWS": {
-      "venue": "PVR: Aura Park Square, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "250.00",
-      "status": "0"
-    },
-    "PDWR|23864|20260404|RECLINER PRIME": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "RECLINER PRIME",
-      "price": "1400.00",
-      "status": "1"
-    },
-    "PDWR|23864|20260404|RECLINER": {
-      "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "RECLINER",
-      "price": "1300.00",
-      "status": "0"
-    },
     "PVOO|44637|20260405|GOLD PRIME": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "04:20 PM",
@@ -309,7 +165,7 @@
       "time": "04:45 PM",
       "date": "20260405",
       "cat": "CLASSIC ROWS",
-      "price": "350.00",
+      "price": "400.00",
       "status": "2"
     },
     "PPNX|38137|20260405|RECLINER ROWS": {
@@ -318,7 +174,7 @@
       "date": "20260405",
       "cat": "RECLINER ROWS",
       "price": "800.00",
-      "status": "1"
+      "status": "0"
     },
     "PPNX|38137|20260405|PRIME ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -437,7 +293,7 @@
       "time": "07:05 PM",
       "date": "20260405",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "300.00",
+      "price": "320.00",
       "status": "2"
     },
     "PBMM|30176|20260405|CLASSIC ROWS": {
@@ -770,12 +626,12 @@
     }
   },
   "dates": {
-    "20260404": "AVAILABLE",
     "20260405": "BOOKABLE",
     "20260406": "AVAILABLE",
     "20260407": "AVAILABLE",
     "20260408": "AVAILABLE",
     "20260409": "AVAILABLE",
-    "20260410": "NOT_OPEN"
+    "20260410": "NOT_OPEN",
+    "20260411": "NOT_OPEN"
   }
 }
