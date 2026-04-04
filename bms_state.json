@@ -46,14 +46,14 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "370.00",
-      "status": "1"
+      "status": "0"
     },
     "PVOO|44655|20260404|CLASSIC ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "06:40 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "280.00",
+      "price": "300.00",
       "status": "3"
     },
     "PSPR|46923|20260404|RECLINER ROWS": {
@@ -86,7 +86,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "280.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|45726|20260404|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -278,7 +278,7 @@
       "date": "20260404",
       "cat": "PRIME PLUS ROWS",
       "price": "360.00",
-      "status": "1"
+      "status": "0"
     },
     "PBMM|30171|20260404|PRIME ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
@@ -301,8 +301,8 @@
       "time": "07:05 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "240.00",
-      "status": "3"
+      "price": "260.00",
+      "status": "2"
     },
     "PSLC|15087|20260404|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -334,7 +334,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "320.00",
-      "status": "1"
+      "status": "0"
     },
     "PSLC|15089|20260404|RECLINER ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -374,7 +374,7 @@
       "date": "20260404",
       "cat": "RECLINER ROWS",
       "price": "610.00",
-      "status": "2"
+      "status": "1"
     },
     "PMSR|26184|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -398,7 +398,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "310.00",
-      "status": "3"
+      "status": "2"
     },
     "PMSR|26184|20260404|CLASSIC ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -509,7 +509,7 @@
       "time": "10:10 PM",
       "date": "20260404",
       "cat": "PRIME ROWS",
-      "price": "310.00",
+      "price": "330.00",
       "status": "2"
     },
     "PZVK|23296|20260404|CLASSIC PLUS ROWS": {
@@ -694,7 +694,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "1"
     },
     "PSPR|46927|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
@@ -1245,7 +1245,7 @@
       "time": "10:30 PM",
       "date": "20260405",
       "cat": "RECLINER",
-      "price": "1100.00",
+      "price": "1200.00",
       "status": "3"
     }
   },
