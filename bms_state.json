@@ -6,7 +6,7 @@
       "date": "20260405",
       "cat": "GOLD PRIME",
       "price": "1250.00",
-      "status": "0"
+      "status": "2"
     },
     "PVOO|44637|20260405|GOLD": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -38,7 +38,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "420.00",
-      "status": "1"
+      "status": "0"
     },
     "PVOO|44660|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -70,7 +70,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "1"
+      "status": "0"
     },
     "PSPR|46927|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
@@ -85,8 +85,8 @@
       "time": "05:50 PM",
       "date": "20260405",
       "cat": "CLASSIC ROWS",
-      "price": "270.00",
-      "status": "3"
+      "price": "340.00",
+      "status": "2"
     },
     "PVFF|45731|20260405|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -389,8 +389,8 @@
       "time": "10:20 PM",
       "date": "20260405",
       "cat": "PRIME ROWS",
-      "price": "270.00",
-      "status": "3"
+      "price": "300.00",
+      "status": "2"
     },
     "PMSR|26188|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -470,7 +470,7 @@
       "date": "20260405",
       "cat": "RECLINER ROWS",
       "price": "500.00",
-      "status": "1"
+      "status": "0"
     },
     "PZVK|23316|20260405|PRIME ROWS": {
       "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
@@ -574,7 +574,7 @@
       "date": "20260405",
       "cat": "PRIME ROWS",
       "price": "310.00",
-      "status": "2"
+      "status": "1"
     },
     "PAAS|15999|20260405|CLASSIC PLUS ROWS": {
       "venue": "PVR: Aura Park Square, Whitefield",
@@ -614,7 +614,7 @@
       "date": "20260405",
       "cat": "RECLINER PRIME",
       "price": "1400.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|23869|20260405|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -622,7 +622,7 @@
       "date": "20260405",
       "cat": "RECLINER",
       "price": "1300.00",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
